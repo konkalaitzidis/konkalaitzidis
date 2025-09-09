@@ -2,7 +2,7 @@
 
 I’m a ML engineer with interests in AI for health.  
 - 🌐 Website: [kostaskal.com](https://kostaskal.com)
-- 💼 LinkedIn: [Konstantinos Kalaitzidis]([https://www.linkedin.com](https://www.linkedin.com/in/kostaskalaitzidis/))
+- 💼 LinkedIn: [Konstantinos Kalaitzidis]([https://www.linkedin.com/in/kostaskalaitzidis/])
 
 <!-- ## Highlights
 - 🧪 Master’s thesis (Karolinska Institutet, Meletis Lab): CNNs for behavioural/neural imaging
